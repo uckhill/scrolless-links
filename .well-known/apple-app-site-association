@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G2VC7M4962.org.akhil.scrolless",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
+```
